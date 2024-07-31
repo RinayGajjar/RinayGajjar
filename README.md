@@ -23,4 +23,4 @@ Welcome to my corner of the internet! I'm a Machine Learning and Computer Engine
 ⚡ Fun fact: I'm fascinated by the cutting-edge technology in supercars and love diving into the details.
 
 ## Connect with me
-- [LinkedIn][https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/rinay-gajjar/)
+- [LinkedIn](https://www.linkedin.com/in/rinay-gajjar/)
