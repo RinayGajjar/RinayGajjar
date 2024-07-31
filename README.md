@@ -7,7 +7,7 @@ Welcome to my corner of the internet! I'm a Machine Learning and Computer Engine
 
 💬 Got a question about Machine Learning, Computer Engineering, or the latest supercar tech? Let's chat!
 <p align="centre">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK1eAAnc1yYp08sSsmDajwaZAe3ofLUQnpUw&s" alt="Sticker" width="200" style="display: inline-block; margin-right: 30px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK1eAAnc1yYp08sSsmDajwaZAe3ofLUQnpUw&s" alt="Sticker" width="200" style="display: inline-block; margin-right: 100px"/>
   <img src="https://giffiles.alphacoders.com/990/99022.gif" alt="Lamborghini" width="300"/>
 </p>
 
