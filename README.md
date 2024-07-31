@@ -1,4 +1,7 @@
 # Hi there! ✨ This is Rinay Gajjar
+<p align="right">
+  <img src="https://giffiles.alphacoders.com/990/99022.gif" alt="Lamborghini" width="200"/>
+</p>
 Welcome to my corner of the internet! I'm a Machine Learning and Computer Engineering enthusiast with a serious love for all things cars 🏎️💨.
 
 🌱 I’m currently exploring the latest advancements in Machine Learning, Deep Learning and Computer Engineering.
