@@ -6,7 +6,7 @@ Welcome to my corner of the internet! I'm a Machine Learning and Computer Engine
 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/RinayGajjar?tab=repositories)
 
 💬 Got a question about Machine Learning, Computer Engineering, or the latest supercar tech? Let's chat!<p align="centre">
-  <img src="https://giffiles.alphacoders.com/990/99022.gif" alt="Lamborghini" width="500"/>
+  <img src="https://giffiles.alphacoders.com/990/99022.gif" alt="Lamborghini" width="300"/>
 </p>
 
 ## 🛠️ My Tech Stack
