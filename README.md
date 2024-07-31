@@ -5,7 +5,9 @@ Welcome to my corner of the internet! I'm a Machine Learning and Computer Engine
 
 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/RinayGajjar?tab=repositories)
 
-💬 Got a question about Machine Learning, Computer Engineering, or the latest supercar tech? Let's chat!<p align="centre">
+💬 Got a question about Machine Learning, Computer Engineering, or the latest supercar tech? Let's chat!
+<p align="centre">
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fprogramming-developer-coding-cat-sticker--589408670005777006%2F&psig=AOvVaw15sqtv6Akv5DNnclthlQOL&ust=1722541047293000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj21NiD0ocDFQAAAAAdAAAAABAE" alt="Sticker" width="300" style="display: inline-block;"/>
   <img src="https://giffiles.alphacoders.com/990/99022.gif" alt="Lamborghini" width="300"/>
 </p>
 
