@@ -14,7 +14,7 @@ Welcome to my corner of the internet! I'm a Machine Learning and Computer Engine
 ## 🛠️ My Tech Stack
 - **Programming Languages:** Python, Java, C, Dart
 - **Software & Tools:** VS Code, Google Colab, Git, Docker
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit 
+- **Libraries:** Pandas, NumPy, NLTK, Matplotlib, Seaborn, Scikit-learn, Streamlit 
 
 📫 How to reach me: rinnaygajjar@gmail.com
 
