@@ -1,4 +1,4 @@
-# Hi there! ✨ This is Rinay Gajjar
+# Hi there! ✨ This is Rinay Gajjar 🚀
 Welcome to my corner of the internet! I'm a Machine Learning and Computer Engineering enthusiast with a serious love for all things cars 🏎️💨.
 
 🌱 I’m currently exploring the latest advancements in Machine Learning, Deep Learning, NLP and Computer Engineering.
