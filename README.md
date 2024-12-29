@@ -5,7 +5,7 @@ Welcome to my corner of the internet! I'm a Machine Learning and Computer Engine
 
 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/RinayGajjar?tab=repositories)
 
-💬 Got a question about Machine Learning, Computer Engineering, or the latest supercar tech? Let's chat!
+💬 Got a question about Machine Learning, Deep Learning, Computer Engineering, or the latest supercar tech? Let's chat!
 <p align="centre">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK1eAAnc1yYp08sSsmDajwaZAe3ofLUQnpUw&s" alt="Sticker" width="200" style="display: inline-block; margin-left: 100px"/>
   <img src="https://giffiles.alphacoders.com/990/99022.gif" alt="Lamborghini" width="300"/>
@@ -14,7 +14,7 @@ Welcome to my corner of the internet! I'm a Machine Learning and Computer Engine
 ## 🛠️ My Tech Stack
 - **Programming Languages:** Python, Java, C, Dart
 - **Software & Tools:** VS Code, Google Colab, Git, Docker
-- **Libraries:** Pandas, NumPy, NLTK, Matplotlib, Seaborn, Scikit-learn, Streamlit 
+- **Libraries:** Tensorflow, Keras, Pandas, NumPy, NLTK, Scikit-learn, Streamlit 
 
 📫 How to reach me: rinnaygajjar@gmail.com
 
