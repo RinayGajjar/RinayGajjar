@@ -1,7 +1,7 @@
 # Hi there! ✨ This is Rinay Gajjar 🚀
 Welcome to my corner of the internet! I'm a Machine Learning and Computer Engineering enthusiast with a serious love for all things cars 🏎️💨.
 
-🌱 I’m currently exploring the latest advancements in Machine Learning, Deep Learning, NLP and Computer Engineering.
+🌱 I’m currently exploring the latest advancements in Generative AI, Machine Learning, Deep Learning, NLP and Computer Engineering.
 
 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/RinayGajjar?tab=repositories)
 
@@ -14,11 +14,11 @@ Welcome to my corner of the internet! I'm a Machine Learning and Computer Engine
 ## 🛠️ My Tech Stack
 - **Programming Languages:** Python, Java, C, Dart
 - **Software & Tools:** VS Code, Google Colab, Git, Docker
-- **Libraries:** Tensorflow, Keras, Pandas, NumPy, NLTK, Scikit-learn, Streamlit 
+- **Libraries:** Langchain, Tensorflow, Keras, Pandas, NumPy, NLTK, Scikit-learn, Streamlit 
 
 📫 How to reach me: rinnaygajjar@gmail.com
 
-📄 Check out my skills and projects: [My Resume](https://drive.google.com/file/d/17wPEQGf8exfnjcH2V5oMLhxYzNQF1YUl/view?usp=sharing)
+📄 Check out my skills and projects: [My Resume](https://drive.google.com/drive/folders/1M7p-9s0SbXxgkYaIT3x28zUU9FaYJdH8)
 
 ⚡ Fun fact: I'm fascinated by the cutting-edge technology in supercars and love diving into the details.
 
