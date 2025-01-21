@@ -18,7 +18,7 @@ Welcome to my corner of the internet! I'm a Machine Learning and Computer Engine
 
 📫 How to reach me: rinnaygajjar@gmail.com
 
-📄 Check out my skills and projects: [My Resume](https://drive.google.com/drive/folders/1M7p-9s0SbXxgkYaIT3x28zUU9FaYJdH8)
+📄 Check out my skills and projects: [My Resume](https://drive.google.com/file/d/1jzqg-go6Sr8ziq2FWZ7BdY8kXptTqrHY/view)
 
 ⚡ Fun fact: I'm fascinated by the cutting-edge technology in supercars and love diving into the details.
 
