@@ -14,7 +14,7 @@ Welcome to my corner of the internet! I'm an AI and Computer Engineering enthusi
 ## 🛠️ My Tech Stack
 - **Programming Languages:** Python, Java, C, SQL, Dart
 - **Software & Tools:** VS Code, Google Colab, Git, Docker, Streamlit Cloud
-- **Libraries:** Langchain, Tensorflow, Keras, Pandas, NumPy, NLTK, Scikit-learn, Streamlit 
+- **Libraries:** Langchain, Tensorflow, Keras, spaCy, BERT, Pandas, NumPy, NLTK, Beautiful Soup, Scikit-learn, Flask, Streamlit 
 
 📫 How to reach me: rinnaygajjar@gmail.com
 
