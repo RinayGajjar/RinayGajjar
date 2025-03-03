@@ -13,12 +13,12 @@ Welcome to my corner of the internet! I'm an AI and Computer Engineering enthusi
 
 ## 🛠️ My Tech Stack
 - **Programming Languages:** Python, Java, C, SQL, Dart
-- **Software & Tools:** VS Code, Google Colab, Git, Docker, Streamlit Cloud
+- **Software & Tools:** VS Code, Google Colab, Git, Docker, Hugging Face, Streamlit Cloud
 - **Libraries:** Langchain, Tensorflow, Keras, spaCy, BERT, Pandas, NumPy, NLTK, Beautiful Soup, Scikit-learn, Flask, Streamlit 
 
 📫 How to reach me: rinnaygajjar@gmail.com
 
-📄 Check out my skills and projects: [My Resume](https://drive.google.com/file/d/15CltBUdKgRSwSraa-C6CTOAEmsMEKzuN/view?usp=sharing)
+📄 Check out my skills and projects: [My Resume](https://drive.google.com/file/d/19sHRTIVMwGCGJ08_KHD5cxH3XiUN1uEp/view)
 
 ⚡ Fun fact: I'm fascinated by the cutting-edge technology in supercars and love diving into the details.
 
