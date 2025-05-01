@@ -1,7 +1,7 @@
-# Hi there! ✨ This is Rinay Gajjar 🚀
+# Hello there! ✨
 Welcome to my corner of the internet! I'm an AI and Computer Engineering enthusiast with a serious love for all things cars 🏎️💨.
 
-🌱 I’m currently exploring the latest advancements in Generative AI, Deep Learning, Machine Learning, NLP and Computer Engineering.
+🌱 Ask me about Generative AI, Deep Learning, Machine Learning, NLP and Computer Engineering.
 
 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/RinayGajjar?tab=repositories)
 
